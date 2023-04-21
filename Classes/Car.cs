@@ -18,7 +18,7 @@ namespace Classes
         public string Model { get; set; }
         public int Year { get; set; }
 
-        public 
+        
     
     }
 }
